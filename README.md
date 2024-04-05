@@ -39,9 +39,13 @@
 
 
   ***1.0*** - Tela Inicial : com menus **REGISTRATION** e **HELP**
+
+  
  <img height = 400 widht = 400 src="https://r2.easyimg.io/287427j24/capturar.png"/>
 
   ***1.1*** - Menu Registration com abas **Department** e **Seller**
+
+  
   <img height = 400 widht = 400 src="https://r2.easyimg.io/y1cq0gisi/captura2.png"/>
   
   ***2.0*** - Menu Seller Registration com aba para cadastrar novo Seller **new**
